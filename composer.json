@@ -30,6 +30,6 @@
         "php": "~8"
     },
     "scripts": {
-        "test": "phpunit"
+        "test": "phpunit --testdox tests"
     }
 }
