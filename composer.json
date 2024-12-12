@@ -28,5 +28,8 @@
     ],
     "config": {
         "php": "~8"
+    },
+    "scripts": {
+        "test": "phpunit"
     }
 }
