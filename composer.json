@@ -3,7 +3,7 @@
     "description": "Hashing library to wrap and extend hash() hash_hmac() crc() md5() functions",
     "type": "library",
     "require-dev": {
-        "phpunit/phpunit": "^11.4"
+        "phpunit/phpunit": "^10.5"
     },
     "license": "MIT",
     "autoload": {
